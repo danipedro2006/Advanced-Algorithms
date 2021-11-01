@@ -1,5 +1,5 @@
 # Advanced Algorithms
-> Here is an example implementation of less known algorithm in Java.
+> Here is an example implementation of less known algorithms in Java.
 
 ## Table of contents
 * [General info](#general-info)
