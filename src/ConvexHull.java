@@ -20,12 +20,9 @@ public class ConvexHull {
 	private static final int N = 30;
 	private static final double MAX = 300;
 	
-
 	static class Point {
-
 		 double x;
 		 double y;
-
 		public Point(double x, double y) {
 			this.x = x;
 			this.y = y;
@@ -42,7 +39,6 @@ public class ConvexHull {
 			else
 				return 0;
 		}
-		
 		
 		public final Comparator<Point> polarOrder = new PolarOrder();
 		
@@ -72,18 +68,12 @@ public class ConvexHull {
 
 		}
 
-		
-
 		@Override
 		public String toString() {
 			return "Point [x=" + x + ", y=" + y + "]";
 		}
-
 	}
-	
-	
-	
-	
+		
 	public static void main(String ...args) {
 
 		Random r = new Random();
