@@ -8,15 +8,19 @@
 * [Contact](#contact)
 
 ## General info
+1. Simulated annealing 
 1. Convex hull
 2. Delaunay triangulation
-3.
-4.
+3. TBA
+4. TBA
 
 
 
 
-## Screenshots
+## Screenshots  
+Simulated annealing  
+<img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resorces/c852796b.gifwidth="360" height="300">  
+
 Convex hull  
 <img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resorces/javaw_C3PJA15HyF.png width="360" height="300">  
 
