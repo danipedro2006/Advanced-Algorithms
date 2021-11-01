@@ -17,8 +17,11 @@
 
 
 ## Screenshots
-Convex hull.  
+Convex hull  
 <img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resorces/javaw_C3PJA15HyF.png width="360" height="300">  
+
+Delaunay triangulation
+<img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resorces/maJKGqaelf.png width="360" height="300">  
 
 ## Technologies
 * Java - version 1.8;
