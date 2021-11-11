@@ -19,10 +19,10 @@
 
 ## Screenshots  
 Simulated annealing  
-<img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resorces/c852796b.gif width="360" height="300">  
+<img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resources/c852796b.gif width="360" height="300">  
 
 Convex hull  
-<img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resorces/javaw_C3PJA15HyF.png width="360" height="300">  
+<img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resources/javaw_C3PJA15HyF.png width="360" height="300">  
 
 Delaunay triangulation  
 <img src=https://github.com/danipedro2006/Advanced-Algorithms/blob/main/src/resorces/maJKGqaelf.png width="360" height="300">  
