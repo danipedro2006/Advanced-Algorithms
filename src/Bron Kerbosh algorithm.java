@@ -1,6 +1,5 @@
 import java.util.*;
 
-//maximum independent set
 public class BronKerbosh {
 
   public static int BronKerbosch(long[] g, long cur, long allowed, long forbidden, int[] weights) {
